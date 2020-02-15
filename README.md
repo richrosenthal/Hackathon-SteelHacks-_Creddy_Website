@@ -1,1 +1,2 @@
-# Hackathon-SteelHacks-_Creddy_Website
+# teamcrediblecollector.github.io
+credible collector github pages site
